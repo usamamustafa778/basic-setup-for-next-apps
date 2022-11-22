@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   experimental: { appDir: true },
-  images: { domains: ["towingminneapolis.us"] },
+  // images: { domains: ["towingminneapolis.us"] },
 };
 
 module.exports = nextConfig;
